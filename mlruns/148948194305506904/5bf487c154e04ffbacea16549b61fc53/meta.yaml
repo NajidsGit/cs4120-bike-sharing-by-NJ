@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NAJID/Documents/GitHub/cs4120-bike-sharing-by-NJ/mlruns/148948194305506904/5bf487c154e04ffbacea16549b61fc53/artifacts
+end_time: 1762136508172
+entry_point_name: ''
+experiment_id: '148948194305506904'
+lifecycle_stage: active
+run_id: 5bf487c154e04ffbacea16549b61fc53
+run_name: cls_logreg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762136502254
+status: 3
+tags: []
+user_id: NAJID

@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/NAJID/Documents/GitHub/cs4120-bike-sharing-by-NJ/mlruns/148948194305506904/models/m-e409bb807d5b4e0d8225ae49498edc21/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-e409bb807d5b4e0d8225ae49498edc21
+model_size_bytes: 1759073
+model_uuid: m-e409bb807d5b4e0d8225ae49498edc21
+prompts: null
+run_id: 539d847d9a6e457698f63068bea8bd7a
+utc_time_created: '2025-11-03 02:23:54.159331'

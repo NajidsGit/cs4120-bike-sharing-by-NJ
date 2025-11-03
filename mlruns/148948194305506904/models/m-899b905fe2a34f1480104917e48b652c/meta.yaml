@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/NAJID/Documents/GitHub/cs4120-bike-sharing-by-NJ/mlruns/148948194305506904/models/m-899b905fe2a34f1480104917e48b652c/artifacts
+creation_timestamp: 1762136509005
+experiment_id: '148948194305506904'
+last_updated_timestamp: 1762136514504
+model_id: m-899b905fe2a34f1480104917e48b652c
+model_type: null
+name: cls_rf
+source_run_id: 5b48f5a2db3f4aa3a097532345e7c0ce
+status: 2
+status_message: null
